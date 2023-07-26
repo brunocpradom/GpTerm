@@ -9,7 +9,7 @@ Simple bash script to make questions to ChatGpt .
  - Copy generated key
  - Set your API_KEY in your terminal `export APIKEY=<generated_apikey>`
  - install jq `sudo apt install jq`
- - chmod +x chat.sh
+ - `chmod +x chat.sh`
 
 # Make the question
- - ./chat.py "How can I make questions?"
+ - ./chat.sh "How can I make questions?"
